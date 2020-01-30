@@ -86,7 +86,7 @@
 			style="font-style:italic;font-size:12px;text-anchor:middle;fill:#000000;font-family:'GOSTRUS'"
 			xml:space="preserve"
 			transform="rotate(-180,55,12.5)">
-			<text freecad:editable="Обозначение верхнее" x="55" y="15.5"><tspan>Обозначение</tspan></text>
+			<text freecad:editable="Обозначение" x="55" y="15.5"><tspan>Обозначение</tspan></text>
 		</g>
 		<!-- Верхняя рамка -->
 		<g
