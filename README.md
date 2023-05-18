@@ -5,7 +5,7 @@
 # FreeCad-GOST-Templates
 ГОСТ шаблоны для FreeCad (как я их себе представляю)
 В шаблонах (форматках) используется шрифт GOSTRUS.
-Шрифт приложен в архиве [gostrus-type-a.zip](https://github.com/xSpVx/FreeCad-GOST-Templates/blob/master/TechDraw/gostrus-type-a.zip), так же его можно скачать с этого [сайта](https://fontlibrary.org/ru/font/gostrus-type-a).
+Шрифт приложен в архиве [gostrus-type-a.zip](https://github.com/xSpVx/FreeCad-GOST-Templates/blob/master/RU_GOST_ESKD/gostrus-type-a.zip), так же его можно скачать с этого [сайта](https://fontlibrary.org/ru/font/gostrus-type-a).
 По всем вопросам и доработкам можно писать под [видео с шаблонами](https://youtu.be/staTJjwDF6Y) или [на форум](https://forum.freecadweb.org/viewtopic.php?f=29&t=33795&sid=69c696fdce1b5ff4935ce3477883e3cd)
 
 Установка:
