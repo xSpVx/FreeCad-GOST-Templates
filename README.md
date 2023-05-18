@@ -10,9 +10,7 @@
 
 Установка:
 ----------
-- Скачать этот проект по кнопочке "Clone or download -> Download ZIP" или скачайте с яндекс диска ["ТЫК"](https://yadi.sk/d/BpOLTm37pxVTJQ)
-- Скопируйте из архива папку TechDraw например в папку C:\Program Files\FreeCAD 0.18\data\Mod\TechDraw\Templates (так же её можно переименовать в например GOST, кому как удобней)
+- Скачать этот проект по кнопочке "Download ZIP" или скачайте с [яндекс диска](https://yadi.sk/d/BpOLTm37pxVTJQ)
+- Скопируйте из архива папку RU_GOST_ESKD например в папку C:\Program Files\FreeCAD 0.20\data\Mod\TechDraw\Templates (Windows) или /usr/share/freecad/Mod/TechDraw/Templates (Linux)
 - Дополнительно можно, но не обязательно в настройках указать остновной шаблон и папку с шаблонами по умолчанию (Меню правка -> Настройки -> TechDraw)
 - Готово. :-)
-
-# ВНИМАНИЕ! Не используйте русский текст в пути до шаблонов у меня на 0.18 зависало всё наглухо.
